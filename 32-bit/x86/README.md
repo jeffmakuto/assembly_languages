@@ -1,1 +1,1 @@
-Learning x86 Assebly language using NASM assembler.
+Learning x86 Assembly language using NASM assembler.
