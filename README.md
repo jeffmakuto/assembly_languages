@@ -5,7 +5,22 @@
 - [Introduction](#introduction)
 - [Assembly Languages](#assembly-languages)
 - [Syllabus](#syllabus)
-- [Assembly programs](#assembly-programs)
+    - [Week 1-2: Introduction and Setup](#week-1-2-introduction-and-setup)
+        - [Week 1: Introduction to Assembly](#week-1-introduction-to-assembly)
+        - [Week 2: Registers and Data Movement](#week-2-registers-and-data-movement)
+    - [Week 3-4: Control Flow](#week-3-4-control-flow)
+        - [Week 3: Conditional Branching](#week-3-conditional-branching)
+        - [Week 4: Procedures and Functions](#week-4-procedures-and-functions)
+    - [Week 5-6: Memory Management](#week-5-6-memory-management)
+        - [Week 5: Addressing Modes](week-5-addressing-modes)
+        - [Week 6: Memory Management](#week-6-memory-management)
+    - [Week 7-8: Input/Output and Interrupts](#week-7-8-input-output-and-interrupts)
+        - [Week 7: Input/Output Operations](#week-7-input-output-operations)
+        - [Week 8: Interrupts and Advanced Topics](#week-8-interrupts-and-advanced-topics)
+    - [Week 9-10: Advanced Topics and Optimization](#week-9-10-advanced-topics-and-optimization)
+        - [Week 9: Floating-Point Operations](#week-9-floating-point-operations)
+        - [Week 10: Debugging and Real-world Applications](#week-10-debugging-and-real-world-applications)
+- [Assembly Programs](#assembly-programs)
 - [Assembly Projects](#assembly-projects)
 
 ## Introduction
@@ -14,9 +29,9 @@ This repository allows me learn various assembly languages in my plight to be a 
 
 ## Assembly Languages
 
-1. x86
-2. ARM (Advanced RISC Machine)
-3. MIPS (Million Instructions Per Seconds)
+* x86
+* ARM (Advanced RISC Machine)
+* MIPS (Million Instructions Per Seconds)
 
 ## Syllabus
 
@@ -131,3 +146,34 @@ This repository allows me learn various assembly languages in my plight to be a 
 * Undertake a larger project showcasing assembly language skills.
 * Commit code to GitHub and document the project.
 
+
+## Assembly Programs
+
+* Fibonacci Series in Assembly Language
+* Factorial Calculation in Assembly Language
+* Matrix Multiplication in Assembly Language
+* String Manipulation in Assembly Language
+* Binary Search in Assembly Language
+* Bubble Sort in Assembly Language
+* Linked List Operations in Assembly Language
+* GCD ( Greatest Common Divisor ) Calculation in Assembly Language
+* File Handling in Assembly Language
+* Calculator Program in Assembly Language
+
+## Assembly Projects
+
+* Real-Time Clock with Assembly Language
+* Temperature Monitoring System
+* Digital Dice Game
+* Music Player using Assembly
+* Morse Code Translator
+* Binary Calculator
+* Simple Operating System Kernel
+* Graphics Drawing Program
+* Traffic Light Controller
+* Elevator Control System
+* Assembly Language Compiler
+* Voice-Controlled Home Automation
+* Game of Life Simulation
+* File Compression Tool
+* Basic Web Server with Assembly
