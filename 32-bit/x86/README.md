@@ -4,11 +4,16 @@
 Assembling:
 
 ```
-nasm -f elf exit.asm -o exit.o
+nasm -f elf file.asm -o file.o
 ```
 
 Linking:
+more fine-grained control over the linking process
 ```
-ld -m elf_i386 -s -o exit exit.o
+ld -m elf_i386 -o file file.o
+```
+has standard runtime libraries included so we remove them using 'nostartfile'
+```
+gcc -m32 -o file file.o -nostartfiles
 
 ```
