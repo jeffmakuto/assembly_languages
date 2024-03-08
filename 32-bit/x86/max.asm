@@ -21,7 +21,7 @@ _start:
 	mov ebx, eax		; Initialize ebx with the first item as the largest
 
 start_loop:
-	cmp eax, 0		; Check if we'v reached the end of the data
+	cmp eax, 0		; Check if we've reached the end of the data
 	je loop_exit
 
 	inc edi			; Move to the next data item
